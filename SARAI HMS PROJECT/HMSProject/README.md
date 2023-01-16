@@ -1,4 +1,4 @@
-# Django - Hotel Management System
+# Django - SARAI - Hotel Management System
 * Requirement Analysis Document - System Design Document - Object Design Document - Mockups - Class Diagram - ER Diagram are in the "Documents" Folder.
 
 * It is hotel management system which has 5 different user types: <br>
